@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "903514910882",
+    "firebase_url": "https://tirollivetracking-default-rtdb.firebaseio.com",
+    "project_id": "tirollivetracking",
+    "storage_bucket": "tirollivetracking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903514910882:android:0347839cc8dcd3b955e7fb",
+        "android_client_info": {
+          "package_name": "com.example.customerparkapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903514910882-rclfbkuqv7rnli8oq4vm7o4q56qiutbg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.customerparkapp",
+            "certificate_hash": "2d81d7869c8001c6d662256ef05a96d28db31d18"
+          }
+        },
+        {
+          "client_id": "903514910882-vd3fhf3u7d8ob7ghn1rea4av9kf0natf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhtphKHWWjjSwAVgA38b93nAzUI6LwzKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903514910882-vd3fhf3u7d8ob7ghn1rea4av9kf0natf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "903514910882-1bgmmbsiumsbg2g5o69lfh5tbccpi8vd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.liveparking.ownersidepark"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

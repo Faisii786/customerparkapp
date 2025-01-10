@@ -1,0 +1,44 @@
+<svg width="52" height="52" viewBox="0 0 52 52" fill="none" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <rect x="0.5" y="0.5" width="51" height="51" rx="7.5" fill="#FCFCFD" />
+    <g clip-path="url(#clip0_282_4698)">
+        <path
+            d="M35.3333 16.667H16.6667C15.3717 16.667 14.345 17.7053 14.345 19.0003L14.3333 33.0003C14.3333 34.2953 15.3717 35.3337 16.6667 35.3337H35.3333C36.6283 35.3337 37.6667 34.2953 37.6667 33.0003V19.0003C37.6667 17.7053 36.6283 16.667 35.3333 16.667ZM35.3333 33.0003H16.6667V26.0003H35.3333V33.0003ZM35.3333 21.3337H16.6667V19.0003H35.3333V21.3337Z"
+            fill="white" />
+        <path
+            d="M35.3333 16.667H16.6667C15.3717 16.667 14.345 17.7053 14.345 19.0003L14.3333 33.0003C14.3333 34.2953 15.3717 35.3337 16.6667 35.3337H35.3333C36.6283 35.3337 37.6667 34.2953 37.6667 33.0003V19.0003C37.6667 17.7053 36.6283 16.667 35.3333 16.667ZM35.3333 33.0003H16.6667V26.0003H35.3333V33.0003ZM35.3333 21.3337H16.6667V19.0003H35.3333V21.3337Z"
+            fill="url(#pattern0)" fill-opacity="0.05" style="mix-blend-mode:darken" />
+        <path
+            d="M35.3333 16.667H16.6667C15.3717 16.667 14.345 17.7053 14.345 19.0003L14.3333 33.0003C14.3333 34.2953 15.3717 35.3337 16.6667 35.3337H35.3333C36.6283 35.3337 37.6667 34.2953 37.6667 33.0003V19.0003C37.6667 17.7053 36.6283 16.667 35.3333 16.667ZM35.3333 33.0003H16.6667V26.0003H35.3333V33.0003ZM35.3333 21.3337H16.6667V19.0003H35.3333V21.3337Z"
+            fill="#31D583" />
+    </g>
+    <g clip-path="url(#clip1_282_4698)">
+        <rect x="30" y="26" width="14" height="14" rx="7" fill="white" />
+        <rect x="30" y="26" width="14" height="14" rx="7" fill="url(#pattern1)" fill-opacity="0.05"
+            style="mix-blend-mode:darken" />
+        <rect x="30" y="26" width="14" height="14" rx="7" fill="#31D583" />
+        <path
+            d="M40.5 33.5837H37.5833V36.5003C37.5833 36.8212 37.3208 37.0837 37 37.0837C36.6792 37.0837 36.4167 36.8212 36.4167 36.5003V33.5837H33.5C33.1792 33.5837 32.9167 33.3212 32.9167 33.0003C32.9167 32.6795 33.1792 32.417 33.5 32.417H36.4167V29.5003C36.4167 29.1795 36.6792 28.917 37 28.917C37.3208 28.917 37.5833 29.1795 37.5833 29.5003V32.417H40.5C40.8208 32.417 41.0833 32.6795 41.0833 33.0003C41.0833 33.3212 40.8208 33.5837 40.5 33.5837Z"
+            fill="white" />
+    </g>
+    <rect x="30.5" y="26.5" width="13" height="13" rx="6.5" stroke="white" />
+    <rect x="0.5" y="0.5" width="51" height="51" rx="7.5" stroke="#E3E8EF" />
+    <defs>
+        <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="2.27657"
+            height="2.84571">
+            <use xlink:href="#image0_282_4698" transform="scale(0.0355714 0.0444643)" />
+        </pattern>
+        <pattern id="pattern1" patternContentUnits="objectBoundingBox" width="3.79429"
+            height="3.79429">
+            <use xlink:href="#image0_282_4698" transform="scale(0.0592857)" />
+        </pattern>
+        <clipPath id="clip0_282_4698">
+            <rect width="28" height="28" fill="white" transform="translate(12 12)" />
+        </clipPath>
+        <clipPath id="clip1_282_4698">
+            <rect x="30" y="26" width="14" height="14" rx="7" fill="white" />
+        </clipPath>
+        <image id="image0_282_4698" width="64" height="64"
+            xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAAAXNSR0IArs4c6QAAAONJREFUeF7t20EOhEAIRFG4/6F7DvEnYeFzryQIv6pBd2behOu9dPvsbog+k+NLgArQAqmJcw9iAAhSgZKB3IJkkAySQTJ4CiE+gA8oBeg0mH3Ai084P89HhqwEqIA209ICsQdjAeaZIgaAYKxBDMCAYy8fXwAIgiAIcoJpJEYGI4VjB3YrbC9gL2AvkCB43cM5PgZgAAZgQFnNZAhdGykQBEEQBEEQDBmgAm2glM/z+QUYisYUGoldO7kY32IEAzCg6RgIRgjFAsw+AgRBMNYgBmCAT2TCYfoPPz/HCqQCX1eBHzHnv7C7WhBSAAAAAElFTkSuQmCC" />
+    </defs>
+</svg>
